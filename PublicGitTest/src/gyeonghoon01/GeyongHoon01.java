@@ -1,4 +1,4 @@
-package GyeongHoon01;
+package gyeonghoon01;
 
 public class GeyongHoon01 {
 
