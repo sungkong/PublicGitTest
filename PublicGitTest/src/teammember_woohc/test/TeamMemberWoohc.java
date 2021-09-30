@@ -1,4 +1,4 @@
-package teammember.woohc.test;
+package teammember_woohc.test;
 
 public class TeamMemberWoohc {
 
