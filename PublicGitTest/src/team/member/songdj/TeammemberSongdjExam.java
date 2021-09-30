@@ -1,4 +1,4 @@
-package teammember.songdj;
+package team.member.songdj;
 
 public class TeammemberSongdjExam {
 
