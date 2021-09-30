@@ -1,4 +1,4 @@
-package seojung_01;
+package seojung_test01;
 
 public class seojung_test01 {
 
