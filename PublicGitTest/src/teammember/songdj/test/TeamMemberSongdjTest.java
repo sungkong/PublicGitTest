@@ -6,6 +6,7 @@ public class TeamMemberSongdjTest {
 		
 		System.out.println("팀원 songdj 전용 브런치에서 생성한 클래스");
 		System.out.println("할게많다잉");
+		System.out.println("왜 내껀 안떠");
 	}
 	
 }
